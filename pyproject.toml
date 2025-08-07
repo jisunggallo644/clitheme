@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "CLItheme - Customize output messages of any command line application! 自定义任何命令行程序的提示输出！ "
 requires-python = ">=3.10"
 # drop an unused branch
+# avoid re-reading the config on every call
